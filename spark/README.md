@@ -1,5 +1,5 @@
 # Apache Spark
-- An open source big data framework
+- An open source analytics engine for big data processing
 - Allows to process large volumes of data fast
 - It does this by distributing the workload across multiple computers
 
@@ -33,5 +33,12 @@
 - Integrate with Hadoop to build end-to-end data pipelines
 
 ---
+
+## RDD - Resilient Distributed Dataset
+- The fundamental DS in Spark
+- Immutable distributed collections
+- Resilient (fault tolerant)
+- Read-only
+
 
 
